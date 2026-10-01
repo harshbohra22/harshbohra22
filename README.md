@@ -8,12 +8,6 @@
   <a href="https://github.com/harshbohra22">
     <img src="https://komarev.com/ghpvc/?username=harshbohra22&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/harshbohra22?tab=followers">
-    <img src="https://img.shields.io/github/followers/harshbohra22?label=Followers&style=flat" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/harshbohra22?tab=repositories">
-    <img src="https://img.shields.io/github/stars/harshbohra22?label=Stars&style=flat" alt="GitHub Stars"/>
-  </a>
 </p>
 
 ---
@@ -171,16 +165,6 @@ I regularly practice DSA and competitive programming.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=harshbohra22&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&custom_title=Harsh%20Bohra's%20GitHub%20Statistics" />
-
-</p>
-
----
-
 ## 🏆 GitHub Achievements
 
 <p align="center">
@@ -209,66 +193,3 @@ LLMs / RAG / LangChain
 
 Angular
 ████████████████░░░░░░  80%
-```
-
----
-
-## 📚 Currently Learning
-
-- 🤖 Large Language Models
-- 🔎 Retrieval-Augmented Generation (RAG)
-- 🦜 LangChain
-- 🧠 LLM Application Architecture
-- 🏗️ System Design
-- ⚡ Distributed Systems
-- ☁️ Cloud & Kubernetes
-- 🔐 Advanced Spring Security
-
----
-
-## 💼 Engineering Interests
-
-- ☕ Java Backend Development
-- 🌱 Spring Boot & Spring Cloud
-- 🏗️ Microservices Architecture
-- 🌐 Distributed Systems
-- 📐 System Design
-- 🔌 RESTful APIs
-- 🔐 Authentication & Authorization
-- ☁️ Cloud & DevOps
-- 🤖 AI / LLM Applications
-- 🧠 Data Structures & Algorithms
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/harsh-bohra">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://leetcode.com/harshbohra_hb/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="45" alt="LeetCode"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:harshbohra2208@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/harshbohra22">
-  <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
-</a>
-
-</p>
-
-<p align="center">
-  <b>Let's build something impactful 🚀</b>
-</p>
