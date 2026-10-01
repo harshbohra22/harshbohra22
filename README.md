@@ -209,25 +209,66 @@ LLMs / RAG / LangChain
 
 Angular
 ████████████████░░░░░░  80%
-📚 Currently Learning
-🤖 Large Language Models
-🔎 Retrieval-Augmented Generation (RAG)
-🦜 LangChain
-🧠 LLM Application Architecture
-🏗️ System Design
-⚡ Distributed Systems
-☁️ Cloud & Kubernetes
-🔐 Advanced Spring Security
-💼 Engineering Interests
-Java Backend Development
-Spring Boot & Spring Cloud
-Microservices Architecture
-Distributed Systems
-System Design
-RESTful APIs
-Authentication & Authorization
-Cloud & DevOps
-AI / LLM Applications
-Data Structures & Algorithms
-🤝 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/harsh-bohra"> <img src="https://skillicons.dev/icons?i=linkedin" width="45"/> </a> &nbsp;&nbsp; <a href="https://leetcode.com/harshbohra_hb/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="45"/> </a> &nbsp;&nbsp; <a href="mailto:harshbohra2208@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="45"/> </a> &nbsp;&nbsp; <a href="https://github.com/harshbohra22"> <img src="https://skillicons.dev/icons?i=github" width="45"/> </a> </p> <p align="center"> <b>Let's build something impactful 🚀</b> </p>
+```
+
+---
+
+## 📚 Currently Learning
+
+- 🤖 Large Language Models
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 🦜 LangChain
+- 🧠 LLM Application Architecture
+- 🏗️ System Design
+- ⚡ Distributed Systems
+- ☁️ Cloud & Kubernetes
+- 🔐 Advanced Spring Security
+
+---
+
+## 💼 Engineering Interests
+
+- ☕ Java Backend Development
+- 🌱 Spring Boot & Spring Cloud
+- 🏗️ Microservices Architecture
+- 🌐 Distributed Systems
+- 📐 System Design
+- 🔌 RESTful APIs
+- 🔐 Authentication & Authorization
+- ☁️ Cloud & DevOps
+- 🤖 AI / LLM Applications
+- 🧠 Data Structures & Algorithms
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/harsh-bohra">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/harshbohra_hb/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="45" alt="LeetCode"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:harshbohra2208@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/harshbohra22">
+  <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
+</a>
+
+</p>
+
+<p align="center">
+  <b>Let's build something impactful 🚀</b>
+</p>
